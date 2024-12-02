@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "stdbool.h": "c",
+        "windows.h": "c",
+        "conio.h": "c",
+        "locale.h": "c",
+        "unistd.h": "c",
+        "notas": "cpp"
+    }
+}
